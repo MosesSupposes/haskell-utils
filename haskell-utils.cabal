@@ -11,10 +11,10 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/haskell-utils#readme>
 homepage:       https://github.com/githubuser/haskell-utils#readme
 bug-reports:    https://github.com/githubuser/haskell-utils/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2020 Author name here
-license:        BSD3
+author:         Moses A. Samuel
+maintainer:     Moses A. Samuel <mosesasamuel633@gmail.com>
+copyright:      2020 Moses Aaron Samuel
+license:        MIT 
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
